@@ -1,0 +1,1 @@
+../share/vibrant.c
